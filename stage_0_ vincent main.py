@@ -8,16 +8,14 @@ def hamming(slack,twitter):
                 print(f'char not math{i,j}in {x}')
                 result+=1
     return result
-name="Md. Mahfuzur Rahman Bhuyan"
-email="mdmahfuzurrahmanbhuyan@gmail.com"
-slackid="@Mahfuz"
-twitterid="@Mahfuz_"
+name="Lawal Vincent Ayobami"
+email="vincentlawal21@gmail.com"
+slackid="@vincent"
+Biostack="Genomics"
+twitterid="@vincentayobami"
 print('Name :',name)
 print('Email :',email)
 print('Slack ID:',slackid)
+print('Biostack :',Biostack)
 print('Twitter ID:',twitterid)
 print("Hamming Distance between Slack and Twitter:",hamming(slackid,twitterid))
-
-
-
-

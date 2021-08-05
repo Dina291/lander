@@ -26,13 +26,17 @@ Name: <your-name-here>
 Email: <your-email-here>
 Slack Username: <slack-username>
 Biostack: <your-hackbio-biostack>
+Twitter Handle: <your-twitter-handle>
+Hamming Distance: <hamming-distance>
 ```
 **Example:**
 ```markdown
 Name: Abdullah Al Nahid
 Email: nahidpatwary1@gmail.com
-Slack Username: @abdnahid
+Slack Username: @abdnahid_
 Biostack: Genomics
+Twitter Handle: @abdnahid_
+Hamming Distance: 0
 ```
 ## 🚀 Get Started
 1. Open a github account: https://github.com
@@ -48,22 +52,18 @@ Biostack: Genomics
 
 ## ✅ Code Submitted
 <!-- markdownlint-disable -->
-Name                        |  Email                             |  Slack      |  Biostack
-----------------------------|------------------------------------|-------------|----------------------------
-Abdullah Al Nahid           |  nahidpatwary1@gmail.com           |  @abdnahid  |  Genomics
-Akaniro Ifunanya            |  joiceiffy22@gmail.com             |  @Iffy      |  Genomics and Data analysis
-Md. Mahfuzur Rahman Bhuyan  |  mdmahfuzurrahmanbhuyan@gmail.com  |  @Mahfuz    |  Genomics
-Modinaat Abayomi            |  modeenat@gmail.com                |  @Modinat   |  Drug Discovery
-Sakshi Rawat                |  sakshirawat3oct@gmail.com         |  @Sakshi    |  Genomics
+Name               |  Email                    |  Slack       |  Biostack  |  Twitter     |  Hamming Distance
+-------------------|---------------------------|--------------|------------|--------------|------------------
+Abdullah Al Nahid  |  nahidpatwary1@gmail.com  |  @abdnahid_  |  Genomics  |  @abdnahid_  |  0
 
 
 ## 💻 Programming Languages
 <!-- markdownlint-disable -->
-- [x] Python 
-- [x] R
-- [x] C
+- [ ] Python 
+- [ ] R
+- [ ] C
 - [X] C++
-- [X] Ruby
+- [ ] Ruby
 - [ ] Julia
 - [ ] Go 
 - [ ] Javascript
