@@ -55,7 +55,7 @@ Akaniro Ifunanya            |  joiceiffy22@gmail.com             |  @Iffy      |
 Md. Mahfuzur Rahman Bhuyan  |  mdmahfuzurrahmanbhuyan@gmail.com  |  @Mahfuz    |  Genomics
 Modinaat Abayomi            |  modeenat@gmail.com                |  @Modinat   |  Drug Discovery
 Sakshi Rawat                |  sakshirawat3oct@gmail.com         |  @Sakshi    |  Genomics
-
+Dina Saber Mohamed          |  d.saber99@gmail.com               |  @Dina      |  Genomics & Bioinformatics
 
 ## 💻 Programming Languages
 <!-- markdownlint-disable -->
