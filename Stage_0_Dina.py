@@ -1,0 +1,7 @@
+print("Name: Dina Saber Mohamed")
+print("Email: d.saber99@gmail.com")
+print("language: python")
+print("Biostack: Genomics & Bioinformatics")
+print("Slack Username: @Dina")
+print("Twitter Handle: @DinaSaber14")
+print("Hamming Distance: 7")
